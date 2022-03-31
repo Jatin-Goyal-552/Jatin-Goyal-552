@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 <p></p>
 <h1></h1>
 
-<div style="margin-left:30%;">
+<!-- <div style="margin-left:30%;"> -->
   
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jatin-goyal-552&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jatin-goyal-552&count_private=true&theme=tokyonight&showicons=true)]() -->
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-goyal-552&langs_count=5&theme=tokyonight)]()
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-goyal-552&langs_count=5&theme=tokyonight)]() -->
      
      
-</div>
+<!-- </div> -->
